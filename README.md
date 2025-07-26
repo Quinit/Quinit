@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Quinit
-- 👀 I’m interested in DeepLearn and IoT
+- 👀 I’m interested in DeepLearning and IoT
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on China University of Geosciences Wu Han
+- 💞️ I’m looking to collaborate on Donghua University
 - 📫 How to reach me Quinit@foxmail.com
 
 <!---
